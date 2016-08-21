@@ -2,9 +2,9 @@
 
 Python script to scrape Gitam Result 
 
-* Here the [cse1.py](https://github.com/shubhamc183/GitamResultScrapper/blob/master/cse1.py) and [cse2.py](https://github.com/shubhamc183/GitamResultScrapper/blob/master/cse2.py) are to files which scrape the result of CSE batch 2014-2018 of semester 1st,2nd,3rd and 4th sem ,total 21780 rows will be saved,divided into two files because of maximum post requests ,2500+ requests, will be exceeded.
+* Here the [cse1.py](https://github.com/shubhamc183/GitamResultScrapper/blob/master/cse1.py) and [cse2.py](https://github.com/shubhamc183/GitamResultScrapper/blob/master/cse2.py) are two files which scrape the result of CSE batch 2014-2018 of semester 1st,2nd,3rd and 4th sem ,total 21780 rows will be saved,divided into two files because of maximum post requests ,2500+ requests, will be exceeded.
 
-* Use [result.py](https://github.com/shubhamc183/GitamResultScrapper/blob/master/cse2.py) just to see results of a particular semester and id and not need MySql database.
+* Use [result.py](https://github.com/shubhamc183/GitamResultScrapper/blob/master/cse2.py) just to see results of a particular semester and id,doesn't require MySql database.
 
 
 Requiremnts
